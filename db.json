@@ -3,19 +3,19 @@
 {
 "id":"1",
 "name":"Binod",
-"points":"1200"
+"points":"4200"
 },
 {
 
 "id":"2",
 "name":"MauNoob",
-"points":"1400"
+"points":"2400"
 },
 {
 
 "id":"3",
 "name":"John",
-"points":"1200"
+"points":"2100"
 },
 {
 
@@ -27,13 +27,13 @@
 
 "id":"5",
 "name":"ScoutOP",
-"points":"4000"
+"points":"1000"
 },
   {
 
 "id":"6",
 "name":"Deba",
-"points":"1000"
+"points":"100"
 }
 ]
 }
